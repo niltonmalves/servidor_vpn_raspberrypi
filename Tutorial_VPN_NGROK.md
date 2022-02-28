@@ -31,6 +31,7 @@ Após a instalação do Ngrok no raspberry pi é necessário criar um tunel  com
 1. Criando um tunnel tcp com ngrok.
 
    ``./ngrok tcp 443``
+
    <img src="imagens/criar_tunel_tcp.png" alt="image" style="zoom: 67%;" />
    <img src="imagens/porta_TCP_aberta.png" style="zoom:50%;" />
 

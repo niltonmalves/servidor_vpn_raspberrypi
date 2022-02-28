@@ -26,4 +26,18 @@ Utilizar  a versão **linux ARM** disponível [aqui](https://ngrok.com/download)
 
 
 
+Após a instalação do Ngrok no raspberry pi é necessário criar um tunel  com o protocolo **tcp** do ngrok e usar o **pivpn** instalado anteriormente para autenticar a conexão.
+
+1. Criando um tunnel tcp com ngrok.
+
+   ``./ngrok tcp 443``
+   <img src="imagens/criar_tunel_tcp.png" alt="image" style="zoom: 67%;" />
+   <img src="imagens/porta_TCP_aberta.png" style="zoom:50%;" />
+
+2. 
+
+### Criar certificado com pivpn para au
+
+
+
 [^1]: https://www.filipeflop.com/blog/pivpn-transforme-sua-raspberry-pi-em-um-servidor-vpn/

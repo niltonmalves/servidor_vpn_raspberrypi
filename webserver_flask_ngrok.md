@@ -19,7 +19,7 @@ if __name__ == '__main__':
 
 `/home/pi/ngrok http -region eu 51820`
 
-`./ndrok http 8080`
+`./ngrok http 8080`
 
  http://2bf5-2804-14d-5c85-540a-00-1002.eu.ngrok.io 
 

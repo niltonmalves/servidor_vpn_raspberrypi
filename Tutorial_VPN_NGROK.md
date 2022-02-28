@@ -34,7 +34,9 @@ Após a instalação do Ngrok no raspberry pi é necessário criar um tunel  com
    <img src="imagens/criar_tunel_tcp.png" alt="image" style="zoom: 67%;" />
    <img src="imagens/porta_TCP_aberta.png" style="zoom:50%;" />
 
-2. 
+   Nestas imagens podemos verificar que a porta liberada pelo serviço ngrok, foi a de número **18977**. Este número deve ser e o enderenço **0.tcp.ngrok.io** serão utilizados no certificado de conexão do **pivpn**.
+
+2. dfsdf
 
 ### Criar certificado com pivpn para au
 

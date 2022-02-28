@@ -62,4 +62,4 @@ Conectando no raspberry pi na rede interna:
 
 ### Conclusão:
 
-Não consegui conectar com o raspberry pi com openvpn. Acredito que o motivo é que a porta ABCD não está liberada, no roteador da claro.
+Não consegui conectar com o raspberry pi com openvpn. Acredito que o motivo é que a porta *** ABCD *** não está liberada, no roteador da claro.

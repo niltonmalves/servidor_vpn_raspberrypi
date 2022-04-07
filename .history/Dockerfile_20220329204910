@@ -1,0 +1,7 @@
+FROM ubuntu:latest
+
+RUN apt-get update && apt-get install -y wget
+
+RUN tar xvzf ngrok-stable-linux-amd64.tgz -C /usr/local/bin
+
+

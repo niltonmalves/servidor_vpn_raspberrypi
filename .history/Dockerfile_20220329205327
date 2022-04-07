@@ -1,0 +1,10 @@
+FROM ubuntu:latest
+
+RUN apt-get update && apt-get install -y wget
+RUN apt-get install tar -y
+RUN apt-get install snap -y
+RUN snap install ngrok
+
+RUN tar xvzf ngrok-stable-linux-amd64.tgz -C /usr/local/bin
+
+
